@@ -77,7 +77,8 @@ def get_approx_cov(true_cov, weight):
 def get_inv_c_noise_cov_c(weighted_inv_true_cov, gamma, errvar, mean_noise_corr=0.5, 
                           spread_factor=0.2, seed=None):
     """
-    Computes K matrix with randomly correlated errors.
+    Computes [inverse of variational covariance x noise covariance x variational covariance] 
+    with randomly correlated errors.
 
     Args:
         A2 (numpy.ndarray): Input inverse covariance matrix of shape (N, N)
