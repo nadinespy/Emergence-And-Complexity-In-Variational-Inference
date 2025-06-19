@@ -1,4 +1,4 @@
-# Multi-Scale Complexity Measures for Variational Inference
+# Multi-Scale Measures in Variational Inference
 &nbsp;
 
 This repository contains code for calculating complexity- and emergence-related multi-scale measures during Variational Inference (VI, also called approximate Bayesian inference). 
@@ -31,4 +31,4 @@ This code is not yet packaged. You'll need to set local-specific directories at 
 
 ## Publication
 
-A publication titled "Exploring the Relation of Variational Inference and Multi-Scale Measures in a Minimal Model" is in preparation. Corresponding updates to this repository will follow.
+A publication titled "Exploring the Relation of Variational Inference and Multi-Scale Measures in a Minimal Model" is in preparation. **Corresponding updates to this repository will follow**.
