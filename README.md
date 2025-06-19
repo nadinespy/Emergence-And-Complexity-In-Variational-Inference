@@ -14,7 +14,7 @@ Both types of measures are computed at each point in the evolutionary process.
 
 ## Current Status
 
-**This work is ongoing and not yet fully documented or tested.** The project is led by Nadine Spychala in collaboration with Miguel Aguilera.
+**This work is ongoing and the code is not yet documented and tested for replication and wider use.** The project is led by Nadine Spychala in collaboration with Miguel Aguilera.
 
 ## Usage
 
